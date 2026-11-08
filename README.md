@@ -4,7 +4,7 @@ Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con 
 
 - **Aprendiz:** Omar Gutiérrez
 - **Curso y mecánica:** Ciencias con Estrellas.
-- **Aplicación publicada:** (complete con la URL de Render)
+- **Aplicación publicada:** https://plataforma-ludica-8jmc.onrender.com
 
 ## Ejecutar en su equipo
 
