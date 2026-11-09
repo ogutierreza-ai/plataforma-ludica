@@ -34,3 +34,9 @@ def datos_proyecto():
         mecanica=proyecto.MECANICA,
         version=proyecto.VERSION,
     )
+
+
+@router.get("/api/version", tags=["Proyecto"])
+def version():
+    """Devuelve la versión de la aplicación."""
+    return {"version": proyecto.VERSION}
